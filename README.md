@@ -3,9 +3,7 @@ callbag-date-timer
 
 Callbag source that after given Date emits numbers in sequence to a specified period.
 
-## install
-
-`npm install callbag-date-timer`
+[![npm version](https://badge.fury.io/js/callbag-date-timer.svg)](https://badge.fury.io/js/callbag-date-timer)
 
 ## Examples
 
