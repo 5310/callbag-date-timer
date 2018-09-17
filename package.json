@@ -2,7 +2,7 @@
   "name": "callbag-date-timer",
   "version": "1.0.0",
   "description": "Callbag source that after given Date emits numbers in sequence to a specified period.",
-  "main": "readme.js",
+  "main": "index.js",
   "scripts": {
     "test": "tape test.js"
   },
