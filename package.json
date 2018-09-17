@@ -8,6 +8,15 @@
   },
   "author": "Sayantan Chaudhuri",
   "license": "ISC",
+  "keywords": [
+    "callbag",
+    "callbags",
+    "timer"
+    "standard",
+    "spec",
+    "observable",
+    "iterable"
+  ],
   "dependencies": {},
   "devDependencies": {
     "callbag-for-each": "^1.1.0",
