@@ -33,7 +33,7 @@ test('callbag-date-timer', (t) => {
     pipe(timer(new Date(Date.now() - 20), 10), forEach(data => actual.push(data)))
 
     delay(60).then(() => {
-      t.same(actual, [2, 3, 4, 5, 6, 7], 'works with start Date in the past with a period')
+      t.same(actual, [2, 3, 4, 5, 6], 'works with start Date in the past with a period')
     })
   }
   {

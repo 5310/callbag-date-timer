@@ -11,7 +11,7 @@ const dateTimer = (delay, period) =>
       }
       const elapsed = now - delay
       i = (elapsed / period) | 0
-      delay = elapsed % period
+      delay = period - elapsed % period
     } else {
       delay = delay - now
     }
