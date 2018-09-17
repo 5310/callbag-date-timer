@@ -3,7 +3,8 @@ callbag-date-timer
 
 Callbag source that after given Date emits numbers in sequence to a specified period.
 
-[![npm version](https://badge.fury.io/js/callbag-date-timer.svg)](https://badge.fury.io/js/callbag-date-timer)
+[![npm version](https://badge.fury.io/js/callbag-date-timer.svg)](https://badge.fury.io/js/callbag-date-timer) 
+[![Build Status](https://travis-ci.org/5310/callbag-date-timer.svg?branch=master)](https://travis-ci.org/5310/callbag-date-timer)
 
 ## Examples
 
