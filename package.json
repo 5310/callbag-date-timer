@@ -1,6 +1,6 @@
 {
   "name": "callbag-date-timer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Callbag source that after given Date emits numbers in sequence to a specified period.",
   "main": "index.js",
   "scripts": {
